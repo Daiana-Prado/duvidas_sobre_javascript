@@ -1,4 +1,4 @@
-var //indica uma variavel, giarda um balor na memoria.
+var //indica uma variavel, guiarda um valor na memoria.
 //int
 var meuInt = 1;
 //float
@@ -10,8 +10,8 @@ var meuBoolean1 = true; //1
 var meuBoolean2 = false; //0
 
 var pessoa = {
-    caoCabelo: "ruivo",//objeto guarda uma informação de chave valor.
+    caoCabelo: "ruivo",  //objeto guarda uma informação de chave valor.
     idade: 24,
 };
 
-var meuArray = ['Maria', 1, -2.3, []]//array guarda instruturas em forma de lista
+var meuArray = ['Maria', 1, -2.3, []]  //array guarda instruturas em forma de lista

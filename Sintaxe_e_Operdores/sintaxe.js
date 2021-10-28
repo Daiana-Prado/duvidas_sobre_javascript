@@ -5,8 +5,8 @@ function comparaNumero(num1, num2){//1° Crie uma função que receba dois numer
 
     return saoIguais ? "São iguais" : "Não são iguais";//if ternario mais usado dia a dia.
 
-    /*if(saoIguais){
+    if(saoIguais){
         return "São iguais";
     }
-    return "Não são iguais";*/
+    return "Não são iguais";
 }
