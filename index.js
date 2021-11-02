@@ -1,4 +1,4 @@
-var //indica uma variavel, guiarda um valor na memoria.
+var //indica uma variavel, guarda um valor na memoria.
 //int
 var meuInt = 1;
 //float
@@ -10,7 +10,7 @@ var meuBoolean1 = true; //1
 var meuBoolean2 = false; //0
 
 var pessoa = {
-    caoCabelo: "ruivo",  //objeto guarda uma informação de chave valor.
+    corCabelo: "ruivo",  //objeto guarda uma informação de chave valor.
     idade: 24,
 };
 
