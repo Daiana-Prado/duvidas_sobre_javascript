@@ -1,4 +1,4 @@
-var //indica uma variavel, guiarda um valor na memoria.
+var //indica uma variavel, guarda um valor na memoria.
 //int
 var meuInt = 1;
 //float
