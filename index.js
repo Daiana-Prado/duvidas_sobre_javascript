@@ -10,7 +10,7 @@ var meuBoolean1 = true; //1
 var meuBoolean2 = false; //0
 
 var pessoa = {
-    caoCabelo: "ruivo",  //objeto guarda uma informação de chave valor.
+    corCabelo: "ruivo",  //objeto guarda uma informação de chave valor.
     idade: 24,
 };
 
